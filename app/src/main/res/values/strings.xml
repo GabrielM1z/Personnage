@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Personnage</string>
+    <string name="btn_sauvegarder">Sauvegarder</string>
+    <string name="btn_nouveau">Nouveau</string>
+    <string name="btn_reinitialiser">Réinitialiser</string>
+    <string name="rdbtn_guerrier">Guerrier</string>
+    <string name="rdbtn_mage">Mage</string>
+    <string name="img_description">image du personnage selectionné</string>
+    <string name="chkbox_txt">Activer les modifications des statistiques</string>
+    <string name="stat_nom">Nom :</string>
+    <string name="stat_classe">Classe :</string>
+    <string name="stat_pv">PV :</string>
+    <string name="stat_ca">CA :</string>
+    <string name="stat_dmg">DMG :</string>
+    <string name="stat_point_de_magie">Point de Magie :</string>
+    <string name="switch_txt_mauvais">Le personnage est mauvais</string>
+    <string name="switch_txt_bon">Le personnage est bon</string>
+</resources>
